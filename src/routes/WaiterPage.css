@@ -1,0 +1,16 @@
+.waiter {
+    border-radius: 5px;
+    padding: 1em;
+  }
+    
+
+  .title {
+    line-height: 2em;
+    height: 2em;
+    font-weight: bold;
+  }
+  
+  
+  .btns {
+    margin-bottom: .5em;
+  }

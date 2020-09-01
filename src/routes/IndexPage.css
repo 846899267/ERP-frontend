@@ -1,0 +1,62 @@
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 3em;
+  text-align: center;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+.ant-carousel .slick-slide h3 {
+  color: #fff;
+}
+
+
+.welcome1 {
+  height: 450px;
+  background: url(../assets/1.jpg) no-repeat center 0;
+  background-size: 1200px 450px;
+}
+
+.welcome2 {
+  height: 450px;
+  background: url(../assets/2.jpg) no-repeat center 0;
+  background-size: 1200px 450px;
+}
+.welcome3 {
+  height: 450px;
+  background: url(../assets/3.jpg) no-repeat center 0;
+  background-size: 1200px 450px;
+}
+.welcome4 {
+  height: 450px;
+  background: url(../assets/4.jpg) no-repeat center 0;
+  background-size: 1200px 450px;
+}
+/* .welcome5 {
+  height: 228px;
+  background: url(../assets/2.jpg) no-repeat center 0;
+  background-size: 388px 328px;
+} */
+
+.list {
+  font-size: 1.2em;
+  margin-top: 1.8em;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+}
